@@ -55,4 +55,4 @@ func main() {
 
 ## 赞赏
 
-![](/Users/jiajiechen/go/src/pexpay-go-sdk/static/THEW6Ei4Hdf4bSSRBZNvmkpMMsinyXH6ka.jpeg)
+![](./static/THEW6Ei4Hdf4bSSRBZNvmkpMMsinyXH6ka.jpeg)
